@@ -1,0 +1,2 @@
+# FirebaseUI-Cloud-Working-project
+This is an application for retriving any of your files in your device on the go with support of  firebase cloud storage.Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. Firebase gives you functionality like analytics, databases, messaging and crash reporting so you can move quickly and focus on your users. 
